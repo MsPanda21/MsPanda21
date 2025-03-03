@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Face recognition sign up page**
-
 - 🌱 I’m currently learning **-Mathematical Foundations for Computing & Problem-Solving, Java**
 
 - 👯 I’m looking to collaborate on **Open-source projects related to algorithms, data structures, and system design**
@@ -19,7 +17,7 @@
 
 - 📫 How to reach me **vaishnavi.kotari@gmail.com**
 
-- ⚡ Fun fact **Beyond tech, I’m passionate about the arts—singing, dancing, and sketching. I also enjoy immersing myself in books, exploring different genres and perspectives.**
+- ⚡ Fun fact **-Beyond tech, I’m passionate about the arts—singing, dancing, and sketching. I also enjoy immersing myself in books, exploring different genres and perspectives.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
