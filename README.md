@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source projects related to algorithms, data structures, and system design**
 
-- 🤝 I’m looking for help with **-I’m looking for help with connecting with researchers and developers working on computational mathematics, and learning how to apply mathematical models to real-world problems**
+- 🤝 I’m looking for help with **- Connecting with researchers and developers working on computational mathematics, and learning how to apply mathematical models to real-world problems**
 
 - 💬 Ask me about **- Engineering Mathematics & Applied Statistical Analysis (ASA) - Math for Computing - Algorithms & Data Structures - Competitive Programming - Python for Problem-Solving**
 
